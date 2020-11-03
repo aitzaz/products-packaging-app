@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "prod-packaging-service.productsServiceUrl",
+      "type": "java.lang.String",
+      "description": "Products Service URL."
+    },
+    {
+      "name": "prod-packaging-service.productsServiceUsername",
+      "type": "java.lang.String",
+      "description": "Products Service username - used for basic auth."
+    },
+    {
+      "name": "prod-packaging-service.productsServicePassword",
+      "type": "java.lang.String",
+      "description": "Products Service password - used for basic auth."
+    }
+  ] }
