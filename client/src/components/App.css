@@ -1,0 +1,4 @@
+.navbar-brand a, .navbar-brand a:hover, .navbar-brand a:focus {
+    color: orange;
+    text-decoration: none;
+}
